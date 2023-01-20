@@ -8,7 +8,7 @@ This is a movie card web application build on Omdb Api. This provide all the imf
 
 ## Screenshots  
 
-![App Screenshot](https://github.com/johnmichael746/movie-card/demo.gif)
+![App Screenshot](https://github.com/JohnMichael746/movie-card/blob/main/demo.gif)
 
 ## Tech Stack  
 
